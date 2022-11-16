@@ -27,15 +27,9 @@
     "jsx-a11y/label-has-associated-control": [
       2,
       {
-        "labelComponents": [
-          "FormLabel"
-        ],
-        "labelAttributes": [
-          "label"
-        ],
-        "controlComponents": [
-          "input"
-        ],
+        "labelComponents": ["FormLabel"],
+        "labelAttributes": ["label"],
+        "controlComponents": ["input"],
         "depth": 1
       }
     ],
