@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AWeb-GA01/static/css/main.ae0094dd.css",
+    "main.js": "/AWeb-GA01/static/js/main.6cfebe14.js",
+    "index.html": "/AWeb-GA01/index.html",
+    "main.ae0094dd.css.map": "/AWeb-GA01/static/css/main.ae0094dd.css.map",
+    "main.6cfebe14.js.map": "/AWeb-GA01/static/js/main.6cfebe14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0094dd.css",
+    "static/js/main.6cfebe14.js"
+  ]
+}
